@@ -1,0 +1,182 @@
+enter a dimention of matrix :20
+*********************************************************************
+cost matix of city:
+     0    15    34    56    33    24    83    67    54    97    23    80    73    39    98    64    12    65    17    33
+    15     0    17    28    60     5    39    74    16    12    96    74    24    28    41    59    58    53    33    48
+    34    17     0    18    10    40    15    27    89    50    40    75    72    49    33    43    86    67    65     5
+    56    28    18     0    59    65    67     9    20    68    84    33    90    26    47    34    10    58    83    26
+    33    60    10    59     0    84    40    31    44     6    23    52    35    74    91    75    53    64    49    36
+    24     5    40    65    84     0    59    52    53    75     2    68    53    37    38    39    56    46    62    99
+    83    39    15    67    40    59     0    65    10    24    92    81    65    71    83    45    83    20     7    84
+    67    74    27     9    31    52    65     0    98    88    47    53    67    63    13    67    84    50    99    56
+    54    16    89    20    44    53    10    98     0    14     6    65    20    66    97    94    18    10    89    47
+    97    12    50    68     6    75    24    88    14     0    69    42    24    52    38    26    42    92    65    14
+    23    96    40    84    23     2    92    47     6    69     0    86    51    74    79    29    40    13    84    94
+    80    74    75    33    52    68    81    53    65    42    86     0    31     9    72    15    88    81    56    55
+    73    24    72    90    35    53    65    67    20    24    51    31     0    18    39    25    60    59    38    92
+    39    28    49    26    74    37    71    63    66    52    74     9    18     0    84     2    47    20    27    98
+    98    41    33    47    91    38    83    13    97    38    79    72    39    84     0    89    87    43    87    66
+    64    59    43    34    75    39    45    67    94    26    29    15    25     2    89     0    27    88    87    43
+    12    58    86    10    53    56    83    84    18    42    40    88    60    47    87    27     0    88    34    21
+    65    53    67    58    64    46    20    50    10    92    13    81    59    20    43    88    88     0    86    86
+    17    33    65    83    49    62     7    99    89    65    84    56    38    27    87    87    34    86     0    79
+    33    48     5    26    36    99    84    56    47    14    94    55    92    98    66    43    21    86    79     0
+
+*********************************************************************
+*********************************************************************
+shomare shahrhai entekhab shode , tol masir: 
+      
+      
+martabe = 1 best travel wighte= 594 Best Solution = 16  14  12  19   7  15  18  11   6   9  13   8   4   5   1   2  10  17  20   3
+martabe = 2 best travel wighte= 594 Best Solution = 16  14  12  19   7  15  18  11   6   9  13   8   4   5   1   2  10  17  20   3
+martabe = 3 best travel wighte= 594 Best Solution = 16  14  12  19   7  15  18  11   6   9  13   8   4   5   1   2  10  17  20   3
+martabe = 4 best travel wighte= 551 Best Solution = 16  14  12  19   7  15  18  11   6   2   1  17   9  10  13  20   3   8   5   4
+martabe = 5 best travel wighte= 537 Best Solution = 16  14  12  19   7  15  18  11   6   9  13   8   4   5  10   2   1  17  20   3
+martabe = 6 best travel wighte= 529 Best Solution = 16  14  12  19   7  15  18  11   6   9  13   8   4  17   1   2   5  10  20   3
+martabe = 7 best travel wighte= 504 Best Solution = 16  14  12  19   7  15  18  11   6   9  13   8   4  17   1   2   3   5  20  10
+martabe = 8 best travel wighte= 451 Best Solution = 16  14  12  19   7   9  18  11   6  15  13   8   4  17   1   2   3  10   5  20
+martabe = 9 best travel wighte= 402 Best Solution = 16  14  12  19   7   9  18  11   6  15  13   8   4  17   1   2   3   5  20  10
+martabe = 10 best travel wighte= 389 Best Solution = 16  14  12  19   7   9  18  11   6  15  13   8   4  17   1   2   3   5  10  20
+martabe = 11 best travel wighte= 389 Best Solution = 16  14  12  19   7   9  18  11   6  15  13   8   4  17   1   2   3   5  10  20
+martabe = 12 best travel wighte= 389 Best Solution = 16  14  12  19   7   9  18  11   6  15  13   8   4  17   1   2   3   5  10  20
+martabe = 13 best travel wighte= 388 Best Solution = 16  14  12  19   7   9  18  11   6  13  15   8   4  17   1   2   5  10  20   3
+martabe = 14 best travel wighte= 350 Best Solution = 16  14  12  19   7   9  18  11   6  13  15   8   4  17   1   2   3   5  10  20
+martabe = 15 best travel wighte= 334 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2   3   5  10  20
+martabe = 16 best travel wighte= 334 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2   3   5  10  20
+martabe = 17 best travel wighte= 334 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2   3   5  10  20
+martabe = 18 best travel wighte= 334 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2   3   5  10  20
+martabe = 19 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 20 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 21 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 22 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 23 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 24 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 25 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 26 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 27 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 28 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 29 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 30 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 31 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 32 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 33 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 34 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 35 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 36 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 37 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 38 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 39 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 40 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 41 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 42 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 43 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 44 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 45 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 46 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 47 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 48 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 49 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 50 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 51 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 52 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 53 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 54 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 55 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 56 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 57 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 58 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 59 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 60 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 61 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 62 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 63 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 64 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 65 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 66 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 67 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 68 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 69 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 70 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 71 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 72 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 73 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 74 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 75 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 76 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 77 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 78 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 79 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 80 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 81 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 82 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 83 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 84 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 85 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 86 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 87 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 88 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 89 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 90 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 91 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 92 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 93 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 94 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 95 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 96 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 97 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 98 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 99 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 100 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 101 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 102 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 103 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 104 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 105 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 106 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 107 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 108 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 109 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 110 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 111 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 112 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 113 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 114 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 115 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 116 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 117 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 118 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 119 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 120 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 121 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 122 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 123 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 124 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 125 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 126 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 127 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 128 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 129 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 130 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 131 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 132 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 133 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 134 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 135 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 136 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 137 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 138 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 139 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 140 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 141 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 142 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 143 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 144 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 145 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 146 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 147 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 148 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 149 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+martabe = 150 best travel wighte= 320 Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+*********************************************************************
+ Best Solution = 16  12  14  19   7   9  18  11   6  13  15   8   4  17   1   2  10   5   3  20
+ Best Fitness = 320
